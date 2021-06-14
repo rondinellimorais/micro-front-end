@@ -4,7 +4,7 @@ Esse app foi desenvolvido em **react native** e não possui uma máquina de esta
 
 ## Dependência
 
-Esse microfront utiliza o [microfront 1](https://github.com/rondinellimorais/micro-front-end/microfront1) megeando as rotas.
+Esse microfront utiliza o [microfront 1](https://github.com/rondinellimorais/micro-front-end/tree/master/microfront1) megeando as rotas.
 
 - Stack.Navigator
   - Page0 (`Screen`)
