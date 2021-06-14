@@ -8,7 +8,7 @@ Esse microfront foi desenvolvido em **react native** utilizando **Context API** 
 
 ## Dependência
 
-Esse microfront utiliza o [microfront 2](https://github.com/rondinellimorais/micro-front-end/microfront2) megeando as rotas.
+Esse microfront utiliza o [microfront 2](https://github.com/rondinellimorais/micro-front-end/tree/master/microfront2) megeando as rotas.
 
 - Stack.Navigator
   - RondPage (`Screen`)
